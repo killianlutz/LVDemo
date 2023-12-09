@@ -18,7 +18,7 @@ Create a directory, open the terminal and run
 ```
 git clone https://github.com/killianlutz/LVDemo.git
 ```
-Then open and run the file `notebooks/run_animation.jl` in your favorite code editor. Enjoy!
+Then open and run the file `notebooks/introduction.ipynb` in your favorite code editor. Enjoy!
 
 ## Last words
 The source code is mainly provided for reproducibility purposes and the user's convenience. Any suggestions are more than welcome.
